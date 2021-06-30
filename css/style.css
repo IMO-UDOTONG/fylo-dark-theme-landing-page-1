@@ -18,6 +18,8 @@
     --accent-color-blue: hsl(198, 60%, 50%);
     --neutral-color-white: hsl(0, 0%, 100%);
   
+/* Padding for different screen sizes- sm, md and lg */
+
     --padding-sm: 2.5rem 2rem;
     --padding-md: 3.5rem 3rem;
     --padding-lg: 4.5rem 4rem;

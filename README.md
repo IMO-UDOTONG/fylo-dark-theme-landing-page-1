@@ -25,10 +25,18 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+### Screenshot
+
+- Mobile View
+  ![](./images/fylo-dark-theme-mobile-view.png)
+
+- Desktop View
+  ![](./images/fylo-dark-theme-desktop-view.png)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Melford-D/fylo-dark-theme-landing-page)
+- Live Site URL: [Netlify](https://your-live-site-url.com)
 
 ## My process
 

@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Melford-D/fylo-dark-theme-landing-page)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://fylo-landing-page-by-melford.netlify.app/)
 
 ## My process
 
@@ -131,8 +131,9 @@ I would continue to improve myself in the following areas: css flexbox, grid, co
 
 ### Useful resources
 
-- [StackOverFlow](https://stackoverflow.com/questions/47587892/how-does-css-grid-layout-works) - This helped me to understand the fundamentals of css grid and its powerful features for responsive designs. I really liked this pattern and will use it going forward.
-- [StackOverFlow](https://stackoverflow.com/questions/44623821/how-to-use-flexbox) - This helped me to understand flexbox principles. I would recommend it for anyone learning flexbox for the first time.
+- [StackOverFlow](https://stackoverflow.com/questions/47587892/how-does-css-grid-layout-works) and
+- [Wesbos](https://cssgrid.io/)- These resources helped me to understand the fundamentals of css grid and its powerful features for responsive designs. I really liked CSS Grid and will use it going forward.
+- [StackOverFlow](https://stackoverflow.com/questions/44623821/how-to-use-flexbox) - It helped me to understand flexbox principles. I would recommend it for anyone learning flexbox for the first time.
 - [CSS Tricks](https://css-tricks.com/the-many-ways-to-change-an-svg-fill-on-hover-and-when-to-use-them/) - This is an amazing article which helped me finally understand how to use CSS Filter on SVG when using hover effect. I'd recommend it to anyone still learning this concept.
 
 ## Author

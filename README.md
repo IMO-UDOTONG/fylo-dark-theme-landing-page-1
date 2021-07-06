@@ -12,8 +12,7 @@
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+  - [Useful resources](#useful-resources
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -135,13 +134,6 @@ I would continue to improve myself in the following areas: css flexbox, grid, co
 - [Wesbos](https://cssgrid.io/)- These resources helped me to understand the fundamentals of css grid and its powerful features for responsive designs. I really liked CSS Grid and will use it going forward.
 - [StackOverFlow](https://stackoverflow.com/questions/44623821/how-to-use-flexbox) - It helped me to understand flexbox principles. I would recommend it for anyone learning flexbox for the first time.
 - [CSS Tricks](https://css-tricks.com/the-many-ways-to-change-an-svg-fill-on-hover-and-when-to-use-them/) - This is an amazing article which helped me finally understand how to use CSS Filter on SVG when using hover effect. I'd recommend it to anyone still learning this concept.
-
-## Author
-
-- Website - [Melford B. Birakor](https://melford-portfolio.netlify.app/)
-- Frontend Mentor - [@Melford-D](https://www.frontendmentor.io/profile/Melford-D)
-- Twitter - [@melford_d](https://twitter.com/melford_d?s=09)
-- Github - [Melford-D](https://github.com/Melford-D/)
 
 ## Acknowledgments
 
